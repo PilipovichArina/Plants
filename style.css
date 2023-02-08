@@ -55,8 +55,9 @@ li {
     line-height: 50px;
 }
 
-.header_list:hover{
+.header_item:hover{
     cursor: pointer;
+    color: #E06733;
 }
 
 .header_red {
