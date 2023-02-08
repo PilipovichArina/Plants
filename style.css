@@ -456,6 +456,13 @@ li {
     color: #499A18;
     font-size: 40px;
     font-weight: 700;
+    font-family: 'Inter', sans-serif;
+}
+
+.wrapper1_green{
+    color: #499A18;
+    font-size: 40px;
+    font-weight: 400;
     font-family: 'Inika', serif;
 }
 
