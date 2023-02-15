@@ -197,7 +197,7 @@ li {
     background-color: #EDF2EC;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .service .wrapper{
@@ -266,6 +266,11 @@ li {
 .service_container_all{
     width: 330px;
     height: 450px;
+}
+
+.service_container_all_photo:hover{
+    transform: .5s;
+    
 }
 
 .service_container_all_photo{
